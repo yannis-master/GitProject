@@ -1,4 +1,7 @@
 public class TestGit1 {
-  System.out.println("ÎÒ°®java");
-  System.out.println("ÎÒ°®j");
+    public static void main(String[] args){
+        System.out.println("æˆ‘çˆ±java");
+        System.out.println("æˆ‘çˆ±j");
+    }
+
 }
